@@ -1,0 +1,6 @@
+Let's make a game!
+	name: Titty Clicker
+	author: CaptiveCat
+	created: 6/27/2024
+	updated: 6/27/2024
+	version: 0.1
